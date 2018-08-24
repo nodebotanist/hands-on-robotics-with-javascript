@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
+  "dependencies": {
+    "johnny-five": "^0.15.0",
+    "raspi-io": "^9.0.0"
+  },
   "license": "ISC"
 }
