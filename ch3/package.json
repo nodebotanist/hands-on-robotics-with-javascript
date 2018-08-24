@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "color": "^3.0.0",
+    "johnny-five": "^0.15.0",
+    "raspi-io": "^9.0.0"
+  }
 }
